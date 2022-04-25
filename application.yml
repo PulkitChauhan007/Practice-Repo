@@ -1,1 +1,8 @@
+my:
+ greeting: Hello World From Config Server
+ list.values: One,Two,Three,Four,Five
 
+db:
+ connection: "test-connection-sting-here-cloud-config-server"
+ host: 129.0.0.1
+ port: 2400
